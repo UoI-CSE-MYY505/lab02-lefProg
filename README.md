@@ -2,7 +2,7 @@
 
 ## UoI-CSE-MYY505 lab02
 
-## First-Name Last-Name
+## BARMPAS ELEFTHERIOS
 
 **TODO - Update your name in this readme. Leave 1 space after the ## to preserve the text formating (markdown)**
 
@@ -18,14 +18,14 @@ E.g. if the array contains 1,0,1,12,0,1,4 a2=1 and a0 = 0x10000000, at the end o
 E.g. if the array contains 1,0,1,12,0,1,4 a2=1, and a0 = 0x10000000, at the end of execution s0 should be 0x10000014 (index 5), not 0x10000000 (index 0), nor 0x10000008 (index 2).
 
 Automated testing in Lab02Test.py using python myy505Utils functions
- 
+
 ## Files to work on
-* `lab02.s` 
-* `Lab02Test.py` 
+* `lab02.s`
+* `Lab02Test.py`
 * `README.md` to add your name<br/>
-Please **DO NOT MODIFY** any other files. 
-      
-## Running 
+Please **DO NOT MODIFY** any other files.
+
+## Running
 * To run the program interactively, start Ripes and load lab02.s
 * To run the test execute the python script Lab02Test.py
 
